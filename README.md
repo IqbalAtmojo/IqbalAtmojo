@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>
+🌱 I’m currently learning PHP<br>
 
 
 # 💻 Tech Stack:
